@@ -1,0 +1,11 @@
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\bin\Debug\netcoreapp2.1\ActiveKey.deps.json
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\bin\Debug\netcoreapp2.1\ActiveKey.runtimeconfig.json
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\bin\Debug\netcoreapp2.1\ActiveKey.runtimeconfig.dev.json
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\bin\Debug\netcoreapp2.1\ActiveKey.dll
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\bin\Debug\netcoreapp2.1\ActiveKey.pdb
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\obj\Debug\netcoreapp2.1\ActiveKey.csprojAssemblyReference.cache
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\obj\Debug\netcoreapp2.1\ActiveKey.csproj.CoreCompileInputs.cache
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\obj\Debug\netcoreapp2.1\ActiveKey.AssemblyInfoInputs.cache
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\obj\Debug\netcoreapp2.1\ActiveKey.AssemblyInfo.cs
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\obj\Debug\netcoreapp2.1\ActiveKey.dll
+C:\Users\korne\RiderProjects\ActiveKey\ActiveKey\obj\Debug\netcoreapp2.1\ActiveKey.pdb
